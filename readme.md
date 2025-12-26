@@ -13,6 +13,10 @@ The model analyzes applicant demographics, financial indicators, and credit hist
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=developeranil65/Loan-approval-predictive-analytics&type=date&legend=top-left)](https://www.star-history.com/#developeranil65/Loan-approval-predictive-analytics&type=date&legend=top-left)
+
 ## 📂 Dataset Description
 - **Total Records:** 4,269  
 - **Total Features:** 13  
@@ -172,4 +176,5 @@ python loan_approval_project.py
 ```
 
 ### 4. View the generated CSV `loan_approval_predictions_all_models.csv` for the final predictions
+
 
